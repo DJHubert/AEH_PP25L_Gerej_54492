@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="736e4aa9-43ee-4215-bc10-976d328d28e1" name="Changes" comment="Pierwszy zapis do repozytorium Lab2">
+    <list default="true" id="736e4aa9-43ee-4215-bc10-976d328d28e1" name="Changes" comment="Pierwszy zapis do repozytorium Lab3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hello-PP/pl/pp/mojaDrugaAplikacja.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/pp/mojaDrugaAplikacja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/pp/mojaTrzeciaAplikacja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/pp/mojaTrzeciaAplikacja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/pp/mojaCzwartaAplikacja.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lab2" />
+        <entry key="$PROJECT_DIR$" value="Lab3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,12 +47,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "Application.mojaDrugaAplikacja.executor": "Run",
     "Application.mojaPierwszaAplikacja.executor": "Run",
     "Application.mojaTrzeciaAplikacja.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Lab3",
+    "git-widget-placeholder": "Lab4",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -85,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741778108149</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pierwszy zapis do repozytorium Lab3">
+      <option name="closed" value="true" />
+      <created>1742409577465</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742409577465</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pierwszy zapis do repozytorium Lab1" />
     <MESSAGE value="Pierwszy zapis do repozytorium Lab2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pierwszy zapis do repozytorium Lab2" />
+    <MESSAGE value="Pierwszy zapis do repozytorium Lab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pierwszy zapis do repozytorium Lab3" />
   </component>
 </project>
