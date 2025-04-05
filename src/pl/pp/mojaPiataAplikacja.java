@@ -2,7 +2,7 @@ package pl.pp;
 
 public class mojaPiataAplikacja {
     public static void main(String[] args) {
-        rysujZnak('*', 10, 5);
+        rysujZnak('*', 10, 6);
     }
 
     private static void rysujZnak(char znak, int ilePowtorzen, int ileLinii) {
