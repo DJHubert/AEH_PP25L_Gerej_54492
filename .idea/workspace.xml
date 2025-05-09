@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="736e4aa9-43ee-4215-bc10-976d328d28e1" name="Changes" comment="Pierwszy zapis do repozytorium Lab8">
-      <change afterPath="$PROJECT_DIR$/src/pl/pp/mojaDziewiataAplikacja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/pp/mojaOsmaAplikacja.java" beforeDir="false" />
+    <list default="true" id="736e4aa9-43ee-4215-bc10-976d328d28e1" name="Changes" comment="Pierwszy zapis do repozytorium Lab9">
+      <change beforePath="$PROJECT_DIR$/out/production/Hello-PP/pl/pp/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello-PP/pl/pp/Konto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello-PP/pl/pp/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello-PP/pl/pp/mojaOsmaAplikacja.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +223,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745757507443</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Pierwszy zapis do repozytorium Lab9">
+      <option name="closed" value="true" />
+      <created>1746810325094</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1746810325094</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Pierwszy zapis do repozytorium Lab9">
+      <option name="closed" value="true" />
+      <created>1746810346408</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1746810346408</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,6 +274,7 @@
     <MESSAGE value="Pierwszy zapis do repozytorium Lab6" />
     <MESSAGE value="Pierwszy zapis do repozytorium Lab7" />
     <MESSAGE value="Pierwszy zapis do repozytorium Lab8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pierwszy zapis do repozytorium Lab8" />
+    <MESSAGE value="Pierwszy zapis do repozytorium Lab9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pierwszy zapis do repozytorium Lab9" />
   </component>
 </project>
