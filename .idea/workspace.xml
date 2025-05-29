@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="736e4aa9-43ee-4215-bc10-976d328d28e1" name="Changes" comment="Pierwszy zapis do repozytorium Lab 11" />
+    <list default="true" id="736e4aa9-43ee-4215-bc10-976d328d28e1" name="Changes" comment="Pierwszy zapis do repozytorium Lab 11">
+      <change afterPath="$PROJECT_DIR$/src/pl/pp/mojaDwunastaAplikacja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/pp/mojaJedenastaAplikacja.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lab10" />
+        <entry key="$PROJECT_DIR$" value="Lab11" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,7 +64,7 @@
     "Application.mojaTrzeciaAplikacja.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Lab11",
+    "git-widget-placeholder": "Lab12",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -308,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747860118766</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Pierwszy zapis do repozytorium Lab 11">
+      <option name="closed" value="true" />
+      <created>1747860169207</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1747860169207</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
