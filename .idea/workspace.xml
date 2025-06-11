@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="736e4aa9-43ee-4215-bc10-976d328d28e1" name="Changes" comment="Pierwszy zapis do repozytorium Lab 12">
+    <list default="true" id="736e4aa9-43ee-4215-bc10-976d328d28e1" name="Changes" comment="Pierwszy zapis do repozytorium Lab 13">
+      <change afterPath="$PROJECT_DIR$/src/pl/pp/mojaCzternastaAplikacja.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/pp/mojaDwunastaAplikacja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/pp/mojaTrzynastaAplikacja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello-PP/mojaDwunastaAplikacja.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/pp/mojaTrzynastaAplikacja.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lab12" />
+        <entry key="$PROJECT_DIR$" value="Lab13" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,6 +52,7 @@
     "Application.Main.executor": "Run",
     "Application.MojaPiataAplikacja.executor": "Run",
     "Application.MojaSiodmaAplikacja.executor": "Run",
+    "Application.mojaCzternastaAplikacja.executor": "Run",
     "Application.mojaDrugaAplikacja.executor": "Run",
     "Application.mojaDwunastaAplikacja.executor": "Run",
     "Application.mojaDziesiataAplikacja.executor": "Run",
@@ -62,9 +65,10 @@
     "Application.mojaSiodmaAplikacja.executor": "Run",
     "Application.mojaSzostaAplikacja.executor": "Run",
     "Application.mojaTrzeciaAplikacja.executor": "Run",
+    "Application.mojaTrzynastaAplikacja.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Lab13",
+    "git-widget-placeholder": "Lab14",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -336,7 +340,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748520647361</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Pierwszy zapis do repozytorium Lab 13">
+      <option name="closed" value="true" />
+      <created>1748972665206</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1748972665206</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Pierwszy zapis do repozytorium Lab 13">
+      <option name="closed" value="true" />
+      <created>1748972685866</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1748972685866</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -376,6 +396,7 @@
     <MESSAGE value="Pierwszy zapis do repozytorium Lab 10" />
     <MESSAGE value="Pierwszy zapis do repozytorium Lab 11" />
     <MESSAGE value="Pierwszy zapis do repozytorium Lab 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pierwszy zapis do repozytorium Lab 12" />
+    <MESSAGE value="Pierwszy zapis do repozytorium Lab 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pierwszy zapis do repozytorium Lab 13" />
   </component>
 </project>
